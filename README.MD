@@ -15,11 +15,8 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://thomas-heim.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://thomasheim.netlify.app/)**
 
-- 📫 How to reach me **theim11@hotmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
