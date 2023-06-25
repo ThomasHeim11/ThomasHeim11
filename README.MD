@@ -9,11 +9,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Self taught blockchain developer with 1+ year of experience with **Solidity.**
+- 🔭 Self-taught Blockchain Developer with over 1 year of experience in Solidity development.
 
-- 🌱 I’m currently looking for a full time job as a **Blockchain Developer (Soldity)**
+- 🌱 Currently seeking a part-time position as a Blockchain Developer (Solidity) while pursuing a Bachelor's degree in Computer Science.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Actively seeking collaboration opportunities on Open-Source Projects.
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://thomasheim.netlify.app/)**
 
