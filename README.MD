@@ -1,7 +1,8 @@
 <!-- <a href="#"><img width="100%" height="auto" src="![epic](https://user-images.githubusercontent.com/106417552/183244077-f52f5cbd-5a18-4de8-a8f2-6b830f2f8c95.png)
 " height="175px"/></a> -->
 
-![epic](https://user-images.githubusercontent.com/106417552/183244077-f52f5cbd-5a18-4de8-a8f2-6b830f2f8c95.png)
+![GitReal](https://github.com/ThomasHeim11/Foundry-NFTs-MoodNFT/assets/106417552/edff3e42-1f2e-4d68-90ad-14e5e22c1560)
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Thomas</h1>
 <h3 align="center">I'm a passionate Blockchain Developer from Norway.</h3>
