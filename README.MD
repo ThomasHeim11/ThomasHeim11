@@ -34,7 +34,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,js,nodejs,react,html,tailwind,nextjs,git,github&perline=14" 
+    <img src="https://skillicons.dev/icons?i=file-type-hardhat,solidity,js,nodejs,react,html,tailwind,nextjs,git,github&perline=14" 
   </a> 
   </a>
 </p>
