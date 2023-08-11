@@ -5,11 +5,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Thomas</h1>
 
 
-
-
-------------------------
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
