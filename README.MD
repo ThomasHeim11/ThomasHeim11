@@ -85,10 +85,6 @@
 </p>
 
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=ThomasHeim11&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
