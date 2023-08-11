@@ -5,8 +5,6 @@
 
 ![ether-reach-the-ether (1)](https://github.com/ThomasHeim11/badges/assets/106417552/e66d7303-3b2d-4fa6-b20c-02c43013f0d2)
 
-![GitHub followers](https://img.shields.io/github/followers/ThomasHeim11?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/ThomasHeim11?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ThomasHeim11.repoName) <img src="https://komarev.com/ghpvc/?username=ThomasHeim11" alt="ThomasHeim11" />
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
