@@ -11,14 +11,6 @@
 
 ![ether-reach-the-ether (1)](https://github.com/ThomasHeim11/badges/assets/106417552/e66d7303-3b2d-4fa6-b20c-02c43013f0d2)
 
-
-![eth-tree-boroda](https://github.com/ThomasHeim11/badges/assets/106417552/4af4bb9e-a6d7-431d-a091-80ed449378f2)
-
-
-
-
-
-
 ## 🙋‍♂️ About Me
 
 - 🔭 Self-taught Blockchain Developer with over 1 year of experience in Solidity development.
