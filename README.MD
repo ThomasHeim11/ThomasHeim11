@@ -34,7 +34,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=file-type-hardhat,solidity,js,nodejs,react,html,tailwind,nextjs,git,github&perline=14" 
+    <img src="https://skillicons.dev/icons?i=solidity,file-type-hardhat,js,nodejs,react,html,tailwind,nextjs,git,github&perline=14" 
   </a> 
   </a>
 </p>
@@ -51,23 +51,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ThomasHeim11&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
