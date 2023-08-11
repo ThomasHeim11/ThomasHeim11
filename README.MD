@@ -12,6 +12,10 @@
 ![ether-reach-the-ether (1)](https://github.com/ThomasHeim11/badges/assets/106417552/e66d7303-3b2d-4fa6-b20c-02c43013f0d2)
 
 
+![crypto-cryptocurrency](https://github.com/ThomasHeim11/badges/assets/106417552/6a61d98a-8696-4b7d-9e0b-68587672e1b4)
+
+
+
 
 
 ## 🙋‍♂️ About Me
