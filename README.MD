@@ -9,6 +9,7 @@
   </ul>
 </div>
 
+![ether-reach-the-ether (1)](https://github.com/ThomasHeim11/badges/assets/106417552/e66d7303-3b2d-4fa6-b20c-02c43013f0d2)
 
 ## 🙋‍♂️ About Me
 
@@ -20,10 +21,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://thomasheim.netlify.app/)**
 
-![ether-reach-the-ether (1)](https://github.com/ThomasHeim11/badges/assets/106417552/e66d7303-3b2d-4fa6-b20c-02c43013f0d2)
-
-
-
+![soulja-boy-pepe](https://github.com/ThomasHeim11/badges/assets/106417552/eae4412e-cb91-45a0-95c0-15186ce68f4e)
 
 # 💻 Tech Stack:
 
@@ -40,10 +38,6 @@
   </a>
 </p>
 <iconify-icon icon="logos:hardhat"></iconify-icon>
-
-
-![soulja-boy-pepe](https://github.com/ThomasHeim11/badges/assets/106417552/eae4412e-cb91-45a0-95c0-15186ce68f4e)
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThomasHeim11&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
