@@ -20,9 +20,6 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://thomasheim.netlify.app/)**
 
-![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=ThomasHeim11&area=true&hide_border=true&theme=dracula)
-
-
 ## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
 
 <!--- stats & Trophy (start) -->
