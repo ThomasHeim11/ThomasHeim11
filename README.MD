@@ -68,7 +68,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,html,nextjs,nodejs,react,tailwind &perline=14" 
-  </a> />
+  </a> 
   </a>
 </p>
 
