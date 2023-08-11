@@ -1,16 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="![epic](https://user-images.githubusercontent.com/106417552/183244077-f52f5cbd-5a18-4de8-a8f2-6b830f2f8c95.png)
 " height="175px"/></a> -->
 
-name: MBTI Personality profile
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.16personalities.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_16personalities: yes
-  plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
-  plugin_16personalities_sections: personality, traits
-  plugin_16personalities_scores: no
 
 ![GitReal](https://github.com/ThomasHeim11/Foundry-NFTs-MoodNFT/assets/106417552/edff3e42-1f2e-4d68-90ad-14e5e22c1560)
 
