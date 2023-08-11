@@ -1,5 +1,3 @@
-
-
 <!--profile visit count-->
 <div align="center">
   
@@ -30,20 +28,6 @@
 
 # 💫 About Me:
 ## 🙋‍♂️ About Me<br><br>- 🔭 Self-taught Blockchain Developer with over 1 year of experience in Solidity development.<br><br>- 🌱 Currently seeking a part-time position as a Blockchain Developer (Solidity) while pursuing a Bachelor's degree in Computer Science.<br><br>- 👯 Actively seeking collaboration opportunities on Open-Source Projects.<br><br>- 👨‍💻 All of my projects are available at **[My Portfolio](https://thomasheim.netlify.app/)**
-
-
-
-
-
-## 🙋‍♂️ About Me
-
-- 🔭 Self-taught Blockchain Developer with over 1 year of experience in Solidity development.
-
-- 🌱 Currently seeking a part-time position as a Blockchain Developer (Solidity) while pursuing a Bachelor's degree in Computer Science.
-
-- 👯 Actively seeking collaboration opportunities on Open-Source Projects.
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://thomasheim.netlify.app/)**
 
 ![soulja-boy-pepe](https://github.com/ThomasHeim11/badges/assets/106417552/eae4412e-cb91-45a0-95c0-15186ce68f4e)
 
@@ -86,8 +70,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ThomasHeim11/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
-
-
   
 </div>
 
