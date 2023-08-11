@@ -13,7 +13,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-![no da](https://github.com/ThomasHeim11/badges/assets/106417552/50d67d9c-b4a9-49a5-9a56-fbb16ab070bc)
+<p align="center">
+  <img src="https://github.com/ThomasHeim11/badges/assets/106417552/50d67d9c-b4a9-49a5-9a56-fbb16ab070bc" alt="No Da Badge">
+</p>
+
 
 
 
