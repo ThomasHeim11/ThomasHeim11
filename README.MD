@@ -14,7 +14,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/ThomasHeim11/badges/assets/106417552/50d67d9c-b4a9-49a5-9a56-fbb16ab070bc" alt="No Da Badge">
+  <img src="https://github.com/ThomasHeim11/badges/assets/106417552/563d8a3d-58d0-487d-8acb-d0c62283b687"
+>
 </p>
 
 
