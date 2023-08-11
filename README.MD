@@ -12,13 +12,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Thomas [no da ]</h1> <!-- Modified this line -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">I'm a passionate Solidity Developer from Norway👨🏻‍💻 [no da ]</h2></summary> <!-- Modified this line -->
-  </ul>
-</div>
 
 ![no da](https://github.com/ThomasHeim11/badges/assets/106417552/50d67d9c-b4a9-49a5-9a56-fbb16ab070bc)
 
