@@ -26,6 +26,11 @@
 
 # 💻 Tech Stack:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+![Name](https://www.google.com/search?q=hardhat+solidity+logo+png&tbm=isch&ved=2ahUKEwjk-bnrs9SAAxU7EBAIHedDAAAQ2-cCegQIABAA&oq=hardhat+solidity+logo+png&gs_lcp=CgNpbWcQAzoECCMQJ1DuAlioCmD1CmgAcAB4AIABjAGIAcwCkgEDMy4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=aQ7WZKShM7ugwPAP54cB&bih=1051&biw=898#imgrc=-2zh-nCF9imdOM)
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThomasHeim11&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThomasHeim11&theme=algolia&hide_border=false)<br/>
