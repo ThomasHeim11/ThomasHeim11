@@ -5,41 +5,32 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Thomas</h1></summary>
   </ul>
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+------------------------
 
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">I'm a passionate Solidity Developer from Norway.</h2></summary>
   </ul>
 </div>
 
 
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🔭 Self-taught Blockchain Developer with over 1 year of experience in Solidity development.
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 🌱 Currently seeking a part-time position as a Blockchain Developer (Solidity) while pursuing a Bachelor's degree in Computer Science.
 
-- 📝 I regularly write articles on [Hashnode](https://ThomasHeim11.hashnode.dev/)
+- 👯 Actively seeking collaboration opportunities on Open-Source Projects.
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://thomasheim.netlify.app/)**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
-<!--Intro end-->
 
 
 
