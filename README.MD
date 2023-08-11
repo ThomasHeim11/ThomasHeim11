@@ -1,9 +1,6 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Thomas</h1>
 
+![GitHub followers](https://img.shields.io/github/followers/ThomasHeim11?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/ThomasHeim11?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ThomasHeim11.repoName) <img src="https://komarev.com/ghpvc/?username=ThomasHeim11" alt="ThomasHeim11" />
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
