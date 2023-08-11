@@ -5,6 +5,8 @@
 
 ![ether-reach-the-ether (1)](https://github.com/ThomasHeim11/badges/assets/106417552/e66d7303-3b2d-4fa6-b20c-02c43013f0d2)
 
+![coding](https://github.com/ThomasHeim11/badges/assets/106417552/9be7acf4-91eb-4362-a633-f2c364516766)
+
 
 
 
