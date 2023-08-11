@@ -72,11 +72,11 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,hardhat-icon,js,nodejs,react,html,tailwind,nextjs,git,github&perline=14" 
+    <img src="https://skillicons.dev/icons?i=solidity,js,nodejs,react,html,tailwind,nextjs,git,github&perline=14" 
   </a> 
   </a>
 </p>
-
+<iconify-icon icon="logos:hardhat"></iconify-icon>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
