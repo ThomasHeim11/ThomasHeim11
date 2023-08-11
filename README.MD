@@ -1,7 +1,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+![eth](https://github.com/ThomasHeim11/badges/assets/106417552/f648bd97-2645-4729-9f53-5485cb2a7fac)
 
 
 
