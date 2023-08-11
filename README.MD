@@ -72,7 +72,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,nextjs,nodejs,react,tailwind, js &perline=14" 
+    <img src="https://skillicons.dev/icons?i=git,github,html,nextjs,nodejs,react,tailwind, js&perline=14" 
   </a> 
   </a>
 </p>
