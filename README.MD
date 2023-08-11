@@ -25,10 +25,6 @@
 
 ## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
 
-<p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&theme=dark" /> </p>
-
-
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
