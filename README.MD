@@ -1,6 +1,19 @@
 <!-- <a href="#"><img width="100%" height="auto" src="![epic](https://user-images.githubusercontent.com/106417552/183244077-f52f5cbd-5a18-4de8-a8f2-6b830f2f8c95.png)
 " height="175px"/></a> -->
 
+name: Compact display
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.achievements.compact.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_achievements: yes
+  plugin_achievements_only: >-
+    polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+    scripter, packager, explorer, infographile, manager
+  plugin_achievements_display: compact
+  plugin_achievements_threshold: X
+
 
 ![GitReal](https://github.com/ThomasHeim11/Foundry-NFTs-MoodNFT/assets/106417552/edff3e42-1f2e-4d68-90ad-14e5e22c1560)
 
