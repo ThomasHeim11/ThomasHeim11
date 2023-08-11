@@ -25,7 +25,22 @@
 
 
 # 💻 Tech Stack:
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=solidity,js,nodejs,react,html,tailwind,nextjs,git,github&perline=14" 
+  </a> 
+  </a>
+</p>
+<iconify-icon icon="logos:hardhat"></iconify-icon>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThomasHeim11&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -54,25 +69,6 @@
 
 
 
-
-
-
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,js,nodejs,react,html,tailwind,nextjs,git,github&perline=14" 
-  </a> 
-  </a>
-</p>
-<iconify-icon icon="logos:hardhat"></iconify-icon>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
