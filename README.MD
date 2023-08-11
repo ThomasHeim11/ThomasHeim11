@@ -1,4 +1,4 @@
-<!--horizontal divider(gradiant)-->
+
 
 <!--profile visit count-->
 <div align="center">
