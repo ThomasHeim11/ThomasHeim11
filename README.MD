@@ -9,9 +9,6 @@
   </ul>
 </div>
 
-![ether-reach-the-ether (1)](https://github.com/ThomasHeim11/badges/assets/106417552/e66d7303-3b2d-4fa6-b20c-02c43013f0d2)
-
-
 ![no da](https://github.com/ThomasHeim11/badges/assets/106417552/50d67d9c-b4a9-49a5-9a56-fbb16ab070bc)
 
 
