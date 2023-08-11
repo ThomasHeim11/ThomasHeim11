@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Thomas</h1>
 
-![eth](https://github.com/ThomasHeim11/badges/assets/106417552/f648bd97-2645-4729-9f53-5485cb2a7fac)
+![ether-reach-the-ether (1)](https://github.com/ThomasHeim11/badges/assets/106417552/e66d7303-3b2d-4fa6-b20c-02c43013f0d2)
 
 
 
