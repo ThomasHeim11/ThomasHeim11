@@ -27,7 +27,7 @@
 </p>
 
 # 💫 About Me:
-## 🙋‍♂️ About Me<br><br>- 🔭 Blockchain Developer with over 1 year of experience in Solidity development.<br><br>- 🌱 Currently seeking a part-time position as a Blockchain Developer (Solidity) while pursuing a Bachelor's degree in Computer Science.<br><br>- 👯 Actively seeking collaboration opportunities on Open-Source Projects.<br><br>- 👨‍💻 All of my projects are available at **[My Portfolio](https://thomasheim.netlify.app/)**
+## 🙋‍♂️ About Me<br><br>- 🔭 Blockchain Developer with over 2 year of experience in Solidity development.<br><br>- 🌱 Currently seeking a part-time position as a Blockchain Developer (Solidity) while pursuing a Bachelor's degree in Computer Science.<br><br>- 👯 Actively seeking collaboration opportunities on Open-Source Projects.<br><br>- 👨‍💻 All of my projects are available at **[My Portfolio](https://thomasheim.netlify.app/)**
 
 ![soulja-boy-pepe](https://github.com/ThomasHeim11/badges/assets/106417552/eae4412e-cb91-45a0-95c0-15186ce68f4e)
 
