@@ -28,10 +28,8 @@
 
 # 💫 About Me:
 ## 🙋‍♂️ About Me<br><br>- 🛡️ Actively participating in competitive audits and bug bounty programs to contribute to the security and improvement of blockchain projects.<br><br>- 🌱Currently pursuing a Bachelor's degree in Computer Science with a specialization in Natural Language Processing.<br><br>-  🎊 My Security Portofolio: **[Security Portfolio](https://github.com/ThomasHeim11/Smart-Contract-Security-Portfolio)** <br><br>- 👨‍💻 All of my projects are available at **[My Portfolio](https://thomasheim.netlify.app/)**
-![image](https://github.com/user-attachments/assets/6e2512ed-85ee-45d9-990a-15222ffaf3ea)
 
-![8wozaj](https://github.com/user-attachments/assets/b91f6729-4bde-4655-9768-0048530c403a)
-
+![haha](https://github.com/user-attachments/assets/ed240c8a-181c-4dd5-b697-601ab93c48ac)
 
 # 💻 Tech Stack:
 
