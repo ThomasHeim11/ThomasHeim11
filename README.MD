@@ -41,7 +41,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,java,py,js,foundry,nodejs,react,html,tailwind,nextjs,ipfs,docker,git,github&perline=14" 
+    <img src="https://skillicons.dev/icons?i=solidity,java,py,js,nodejs,react,html,tailwind,nextjs,ipfs,docker,obsidian,git,github&perline=14" 
   </a> 
   </a>
 </p>
