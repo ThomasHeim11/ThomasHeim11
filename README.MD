@@ -1,7 +1,6 @@
 <!--profile visit count-->
 <div align="center">
-  
-![image](https://github.com/user-attachments/assets/474d9bb6-da99-4eb2-be69-d9f41fbad8f4)
+
   
 </div>
 
