@@ -1,6 +1,5 @@
 <!--profile visit count-->
 <div align="center">
-
 </div>
 
 <!--horizontal divider(gradiant)-->
@@ -20,11 +19,12 @@
 
 # 💫 About Me:
 <div style="font-size: 18px; line-height: 1.6;">
-  - 🛡️ Actively participating in competitive audits and bug bounty programs to contribute to the security and improvement of blockchain projects.
-  - 🌱 Currently pursuing a BcS in Computer Science with a specialization in Natural Language Processing.
-  - 🎊 My Security Portfolio: <a href="https://thomasheim.netlify.app/">Security Portfolio</a>
+  <ul>
+    <li>🛡️ Actively participating in competitive audits and bug bounty programs to contribute to the security and improvement of blockchain projects.</li>
+    <li>🌱 Currently pursuing a BcS in Computer Science with a specialization in Natural Language Processing.</li>
+    <li>🎊 My Security Portfolio: <a href="https://thomasheim.netlify.app/">Security Portfolio</a></li>
+  </ul>
 </div>
-
 
 ![haha](https://github.com/user-attachments/assets/ed240c8a-181c-4dd5-b697-601ab93c48ac)
 
