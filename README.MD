@@ -1,7 +1,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=ThomasHeim11&icon=3&color=6)](https://visitcount.itsvg.in)
+![image](https://github.com/user-attachments/assets/474d9bb6-da99-4eb2-be69-d9f41fbad8f4)
   
 </div>
 
