@@ -18,13 +18,6 @@
 
 <!--horizontal divider(gradiant)-->
 
-
-
-<p align="center">
-  <img src="https://github.com/ThomasHeim11/badges/assets/106417552/563d8a3d-58d0-487d-8acb-d0c62283b687"
->
-</p>
-
 # 💫 About Me:
 ## <br><br>- 🛡️ Actively participating in competitive audits and bug bounty programs to contribute to the security and improvement of blockchain projects.<br><br>- 🌱Currently pursuing a BcS in Computer Science with a specialization in Natural Language Processing.<br><br>-  🎊 My Security Portofolio: **[Security Portfolio](https://thomasheim.netlify.app/)**
 ![haha](https://github.com/user-attachments/assets/ed240c8a-181c-4dd5-b697-601ab93c48ac)
