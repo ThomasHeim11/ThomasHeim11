@@ -19,9 +19,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💫 About Me:
-- 🛡️ Actively participating in competitive audits and bug bounty programs to contribute to the security and improvement of blockchain projects.
-- 🌱 Currently pursuing a BcS in Computer Science with a specialization in Natural Language Processing.
-- 🎊 My Security Portfolio: **[Security Portfolio](https://thomasheim.netlify.app/)**
+<div style="font-size: 18px;">
+  - 🛡️ Actively participating in competitive audits and bug bounty programs to contribute to the security and improvement of blockchain projects.<br>
+  - 🌱 Currently pursuing a BcS in Computer Science with a specialization in Natural Language Processing.<br>
+  - 🎊 My Security Portfolio: <strong><a href="https://thomasheim.netlify.app/">Security Portfolio</a></strong>
+</div>
 
 ![haha](https://github.com/user-attachments/assets/ed240c8a-181c-4dd5-b697-601ab93c48ac)
 
@@ -67,4 +69,3 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
