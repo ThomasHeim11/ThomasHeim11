@@ -22,7 +22,7 @@
   <ul>
     <li>🛡️ Actively participating in competitive audits and bug bounty programs to contribute to the security and improvement of blockchain projects.</li>
     <li>🌱 Currently pursuing a BcS in Computer Science with a specialization in Natural Language Processing.</li>
-    <li>🎊 My Security Portfolio: <a href="https://thomasheim.netlify.app/">Security Portfolio</a></li>
+    <li>🎊 My Security Portfolio: <a href="https://thomasheim11.github.io/ThomasHeim/">Security Portfolio</a></li>
   </ul>
 </div>
 
