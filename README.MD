@@ -21,7 +21,7 @@
 <div style="font-size: 18px; line-height: 1.6;">
   <ul>
     <li>🛡️ Actively participating in competitive audits and bug bounty programs to contribute to the security and improvement of blockchain projects.</li>
-    <li>🌱 Currently pursuing a BcS in Computer Science with a specialization in Natural Language Processing.</li>
+    <li>🌱 Currently pursuing a MSc in Applied Artificial Intelligence.</li>
     <li>🎊 My Security Portfolio: <a href="https://thomasheim11.github.io/ThomasHeim/">Security Portfolio</a></li>
   </ul>
 </div>
