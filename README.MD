@@ -39,7 +39,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,java,py,js,tensorflow,nodejs,react,html,tailwind,nextjs,ipfs,git,github&perline=14" />
+    <img src="https://skillicons.dev/icons?i=solidity,java,py,js,tensorflow,nodejs,react,html,tailwind,nextjs,ipfs &perline=14" />
   </a>
 </p>
 <iconify-icon icon="logos:hardhat"></iconify-icon>
