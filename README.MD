@@ -1,6 +1,8 @@
+<!--profile visit count-->
 <div align="center">
 </div>
 
+<!--horizontal divider-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
@@ -10,6 +12,7 @@
   <p><code>NORWAY // MSc APPLIED AI</code></p>
 </div>
 
+<!--horizontal divider-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 # Core Focus
@@ -61,11 +64,7 @@
 # Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThomasHeim11&theme=dark&bg_color=000000&text_color=00FF66&icon_color=00FF66&title_color=00FF66&border_color=00FF66&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=ThomasHeim11&theme=dark&background=000000&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=00FF66&sideNums=00FF66&sideTitle=00FF66&dates=00FF66" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasHeim11&theme=dark&bg_color=000000&text_color=00FF66&icon_color=00FF66&title_color=00FF66&border_color=00FF66&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 # Contact
@@ -76,4 +75,5 @@
   </a>
 </p>
 
+<!--horizontal divider-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
