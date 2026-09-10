@@ -64,7 +64,7 @@
 # GitHub Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThomasHeim11&theme=dark&bg_color=000000&title_color=00FF66&text_color=00FF66&icon_color=00FF66&border_color=00FF66&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=ThomasHeim11&theme=dark&background=000000&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=00FF66&sideNums=00FF66&sideTitle=00FF66&dates=00FF66" alt="GitHub Streak" />
 </p>
 
 ---
