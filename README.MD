@@ -7,19 +7,9 @@
 
 ---
 
-<h2 align="center"><code>> SYSTEM MATRIX // CORE_FOCUS</code></h2>
-
-<pre align="left" style="background-color: #0d1117; border: 1px solid #00FF66; border-radius: 6px; padding: 16px; color: #00FF66;">
-<code><span style="color: #00FF66;">[01_RESEARCH]</span> Master's Thesis: Hallucination mitigation in LLMs via Retrieval-Augmented Generation (RAG)
-<span style="color: #00FF66;">[02_AI_ENGINE]</span> Training neural networks & optimization models for graduate studies in Applied AI
-<span style="color: #00FF66;">[03_SECURITY]</span> Auditing smart contract protocols & filing exploits on competitive bug bounty platforms
-<span style="color: #00FF66;">[04_ZERO_KNG]</span> Engineering ZK-STARK provers using Winterfell (Rust) & implementing PQC standards
-<span style="color: #00FF66;">[05_TELEMETRY]</span> Full exploit logs & verified vulnerability reports: <a href="https://thomasheim11.github.io/ThomasHeim/" style="color: #00FF66; text-decoration: underline;">Security Portfolio</a></code>
-</pre>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ed240c8a-181c-4dd5-b697-601ab93c48ac" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00FF66&background=00000000&center=false&vCenter=true&width=550&lines=%3E+Thesis%3A+RAG-driven+LLM+Hallucination+Reduction;%3E+Applied+AI%3A+Neural+Net+%26+Optimization+Models;%3E+Security%3A+Smart+Contract+Protocol+Auditing;%3E+Cryptography%3A+ZK-STARKs+(Winterfell)+%26+PQC;%3E+Logs%3A+thomasheim11.github.io%2FThomasHeim%2F" alt="Core Focus Terminal" />
+</div>
 
 ---
 
