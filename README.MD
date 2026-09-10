@@ -11,7 +11,7 @@
 
 • Auditing smart contract protocols, verifying state invariants, and filing critical findings across competitive security platforms
 
-• Building zero-knowledge circuits and exploring zk-SNARK primitives for private state execution
+• Engineering ZK-STARK provers using Winterfell in Rust and implementing post-quantum cryptographic standards
 
 • Training neural networks and optimization models for graduate research in Applied Artificial Intelligence
 
@@ -31,11 +31,13 @@
   <img src="https://img.shields.io/badge/IPFS-000000?style=for-the-badge&logo=ipfs&logoColor=00FF66" />
 </p>
 
-### Zero-Knowledge Cryptography
+### Zero-Knowledge & Post-Quantum Cryptography
 <p align="left">
-  <img src="https://img.shields.io/badge/ZK--SNARKs-000000?style=for-the-badge&logo=google-chat&logoColor=00FF66" />
-  <img src="https://img.shields.io/badge/Circom-000000?style=for-the-badge&logo=matrix&logoColor=00FF66" />
-  <img src="https://img.shields.io/badge/SnarkJS-000000?style=for-the-badge&logo=javascript&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/ZK--STARKs-000000?style=for-the-badge&logo=matrix&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Winterfell-000000?style=for-the-badge&logo=meta&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/ML--DSA--87-000000?style=for-the-badge&logo=security&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/ML--KEM--768-000000?style=for-the-badge&logo=shield&logoColor=00FF66" />
 </p>
 
 ### Artificial Intelligence & Machine Learning
