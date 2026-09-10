@@ -7,19 +7,44 @@
 
 ---
 
-# Core Focus
+<h2 align="center"><code>// ACTIVE_DIRECTIVES</code></h2>
 
-• Writing a Master's thesis on reducing hallucination in Large Language Models (LLMs) using Retrieval-Augmented Generation (RAG)
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th align="left"><code>DOMAIN</code></th>
+        <th align="left"><code>TARGET OBJECTIVE</code></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><code>⚡ LLM / RAG</code></td>
+        <td><code>Reducing LLM hallucination via RAG (MSc Thesis)</code></td>
+      </tr>
+      <tr>
+        <td><code>🧠 APPLIED AI</code></td>
+        <td><code>Neural network optimization & deep learning research</code></td>
+      </tr>
+      <tr>
+        <td><code>🛡️ WEB3 SEC</code></td>
+        <td><code>Smart contract protocol audits & competitive bounty exploits</code></td>
+      </tr>
+      <tr>
+        <td><code>🔐 ZK & PQC</code></td>
+        <td><code>STARK provers (Winterfell/Rust) & post-quantum standards</code></td>
+      </tr>
+      <tr>
+        <td><code>📁 AUDITS</code></td>
+        <td><code><a href="https://thomasheim11.github.io/ThomasHeim/"><font color="#00FF66">thomasheim11.github.io/ThomasHeim</font></a></code></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-• Training neural networks and optimization models for graduate research in Applied Artificial Intelligence
-
-• Auditing smart contract protocols and filing critical findings across competitive security platforms
-
-• Engineering ZK-STARK provers using Winterfell in Rust and implementing post-quantum cryptographic standards
-
-• Code reviews, exploit analysis, and verified vulnerability reports logged at <a href="https://thomasheim11.github.io/ThomasHeim/">Security Portfolio</a>
-
-![node](https://github.com/user-attachments/assets/ed240c8a-181c-4dd5-b697-601ab93c48ac)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ed240c8a-181c-4dd5-b697-601ab93c48ac" />
+</p>
 
 ---
 
