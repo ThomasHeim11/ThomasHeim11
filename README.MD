@@ -11,11 +11,11 @@
 
 • Writing a Master's thesis on reducing hallucination in Large Language Models (LLMs) using Retrieval-Augmented Generation (RAG)
 
+• Training neural networks and optimization models for graduate research in Applied Artificial Intelligence
+
 • Auditing smart contract protocols and filing critical findings across competitive security platforms
 
 • Engineering ZK-STARK provers using Winterfell in Rust and implementing post-quantum cryptographic standards
-
-• Training neural networks and optimization models for graduate research in Applied Artificial Intelligence
 
 • Code reviews, exploit analysis, and verified vulnerability reports logged at <a href="https://thomasheim11.github.io/ThomasHeim/">Security Portfolio</a>
 
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/ML--KEM--768-000000?style=for-the-badge&logo=shield&logoColor=00FF66" />
 </p>
 
-### Artificial Intelligence & Machine Learning
+### AI
 <p align="left">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF66" />
   <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FF66" />
