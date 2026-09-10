@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="80px" alt="Treecko" />
   <h1>Thomas Heim</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=435&lines=EVM+Security+Researcher;AI+Systems+Engineer;MSc+Applied+AI" alt="Typing Terminal Profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=435&lines=Smart+Contract+Research;MSc+Applied+AI" alt="Typing Terminal Profile" />
   <p><code>NORWAY // OSLO</code></p>
 </div>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/1x1_%2300FF00.png" width="100%" height="2px">
+---
 
 # Core Focus
 
@@ -19,7 +19,7 @@
 
 ![node](https://github.com/user-attachments/assets/ed240c8a-181c-4dd5-b697-601ab93c48ac)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/1x1_%2300FF00.png" width="100%" height="2px">
+---
 
 # Tech Stack
 
@@ -55,19 +55,19 @@
   <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF66" />
 </p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/1x1_%2300FF00.png" width="100%" height="2px">
+---
 
 # GitHub Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThomasHeim11&theme=dark&bg_color=000000&title_color=00FF66&text_color=00FF66&icon_color=00FF66&border_color=00FF66&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThomasHeim11&theme=dark&bg_color=000000&title_color=00FF66&text_color=00FF66&icon_color=00FF66&border_color=00FF66&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ThomasHeim11&theme=dark&background=000000&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=00FF66&sideNums=00FF66&sideTitle=00FF66&dates=00FF66" alt="GitHub Streak" />
 </p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/1x1_%2300FF00.png" width="100%" height="2px">
+---
 
 # Contact
 
