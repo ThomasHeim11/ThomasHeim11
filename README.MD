@@ -7,10 +7,15 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=00FF66&background=00000000&center=false&vCenter=true&width=550&lines=%3E+Thesis%3A+RAG-driven+LLM+Hallucination+Reduction;%3E+Applied+AI%3A+Neural+Net+%26+Optimization+Models;%3E+Security%3A+Smart+Contract+Protocol+Auditing;%3E+Cryptography%3A+ZK-STARKs+(Winterfell)+%26+PQC;%3E+Logs%3A+thomasheim11.github.io%2FThomasHeim%2F" alt="Core Focus Terminal" />
-</div>
-
+```json
+{
+  "thesis_research": "Mitigating LLM hallucination via Retrieval-Augmented Generation (RAG)",
+  "applied_ai": "Neural network optimization & deep learning research",
+  "web3_security": "Smart contract protocol auditing & competitive bug hunting",
+  "cryptography": "Engineering ZK-STARK provers (Winterfell/Rust) & PQC implementations",
+  "security_logs": "[https://thomasheim11.github.io/ThomasHeim/](https://thomasheim11.github.io/ThomasHeim/)"
+}
+```
 ---
 
 # Tech Stack
