@@ -29,27 +29,50 @@
   <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=00FF66" />
   <img src="https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=hardhat&logoColor=00FF66" />
   <img src="https://img.shields.io/badge/IPFS-000000?style=for-the-badge&logo=ipfs&logoColor=00FF66" />
-</pHere is how to troubleshoot your missing GitHub stats and update your section name.
+</p>
 
-### 1. Fix the Missing GitHub Stats
-If you are using a popular dynamic stats tool (like `github-readme-stats`), it usually breaks for one of three reasons:
+### Zero-Knowledge & Post-Quantum Cryptography
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/ZK--STARKs-000000?style=for-the-badge&logo=matrix&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Winterfell-000000?style=for-the-badge&logo=meta&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/ML--DSA--87-000000?style=for-the-badge&logo=security&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/ML--KEM--768-000000?style=for-the-badge&logo=shield&logoColor=00FF66" />
+</p>
 
-*   **API Rate Limiting:** The public Vercel instance frequently hits GitHub's API limits. If the image shows up as a broken link or a timeout error, this is usually the cause. It typically resolves itself in a few hours, or you can deploy your own instance to Vercel.
-*   **Markdown Syntax Error:** Ensure your image tag is formatted correctly with no missing parentheses or brackets. 
-    *   **Correct format:** `![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)`
-*   **Incorrect Username:** Double-check that the `?username=` parameter exactly matches your GitHub handle without any extra spaces.
+### Artificial Intelligence & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF66" />
+</p>
 
-### 2. Rename "Web Systems & Infrastructure" to "Frontend"
-How you change this depends on where the text is located in your profile:
+### Web Systems & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF66" />
+</p>
 
-*   **If it's a heading in your README file:** Simply open your `README.md` file, locate the text, and change it directly using Markdown.
-    ```markdown
-    ## Frontend
-    ```
-*   **If it's the title of your stats card:** You can force a custom title by adding the `&custom_title=` parameter to your stats URL.
-    ```markdown
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&custom_title=Frontend)
-    ```
-*   **If it's a repository name:** You will need to go to that specific repository's **Settings** tab on GitHub and rename it under the "General" section. 
+---
 
-<FollowUp label="Want me to check your code?" query="Here is the Markdown code for my GitHub profile. Can you fix the stats link and rename the section for me?" />
+# GitHub Telemetry
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThomasHeim11&theme=dark&bg_color=000000&title_color=00FF66&text_color=00FF66&icon_color=00FF66&border_color=00FF66&show_icons=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+---
+
+# Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thomas-heim11/" target="blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF66" alt="linkedin" />
+  </a>
+</p>
