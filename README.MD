@@ -7,15 +7,34 @@
 
 ---
 
-```json
-{
-  "thesis_research": "Mitigating LLM hallucination via Retrieval-Augmented Generation (RAG)",
-  "applied_ai": "Neural network optimization & deep learning research",
-  "web3_security": "Smart contract protocol auditing & competitive bug hunting",
-  "cryptography": "Engineering ZK-STARK provers (Winterfell/Rust) & PQC implementations",
-  "security_logs": "[https://thomasheim11.github.io/ThomasHeim/](https://thomasheim11.github.io/ThomasHeim/)"
-}
-```
+<h2 align="center"><code>// ACTIVE_DIRECTIVES</code></h2>
+
+<table style="border: 1px solid #00FF66; background-color: #000000;">
+  <tr>
+    <td width="30%"><code><b>DOMAIN</b></code></td>
+    <td width="70%"><code><b>TARGET OBJECTIVE</b></code></td>
+  </tr>
+  <tr>
+    <td><code>⚡ LLM / RAG</code></td>
+    <td><code>Reducing LLM hallucination via RAG (MSc Thesis)</code></td>
+  </tr>
+  <tr>
+    <td><code>🧠 APPLIED AI</code></td>
+    <td><code>Neural network optimization & deep learning models</code></td>
+  </tr>
+  <tr>
+    <td><code>🛡️ WEB3 SEC</code></td>
+    <td><code>Smart contract protocol audits & exploit reporting</code></td>
+  </tr>
+  <tr>
+    <td><code>🔐 ZK & PQC</code></td>
+    <td><code>STARK provers (Winterfell/Rust) & post-quantum standards</code></td>
+  </tr>
+  <tr>
+    <td><code>📁 AUDITS</code></td>
+    <td><code><a href="https://thomasheim11.github.io/ThomasHeim/"><font color="#00FF66">thomasheim11.github.io/ThomasHeim</font></a></code></td>
+  </tr>
+</table>
 ---
 
 # Tech Stack
