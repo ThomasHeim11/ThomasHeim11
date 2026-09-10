@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00FF66" />
   <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF66" />
   <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Weights_%26_Biases-000000?style=for-the-badge&logo=weightsandbiases&logoColor=00FF66" />
 </p>
 
 ### Frontend
