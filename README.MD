@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/252.gif" width="80px" alt="Treecko" />
   <h1>Thomas Heim</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=435&lines=Smart+Contract+Research;MSc+Applied+AI" alt="Typing Terminal Profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=435&lines=Smart+Contract+Security+Research;MSc+Applied+AI" alt="Typing Terminal Profile" />
   <p><code>NORWAY // OSLO</code></p>
 </div>
 
