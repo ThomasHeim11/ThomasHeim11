@@ -65,6 +65,8 @@
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00FF66" />
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF66" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/RocksDB-000000?style=for-the-badge&logo=rocksdb&logoColor=00FF66" />
 </p>
 
 ---
